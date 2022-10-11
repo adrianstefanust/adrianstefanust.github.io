@@ -1108,4 +1108,6 @@ section {
   border-radius: 8px;
   margin-right: 2%;
   margin-bottom:2%; 
+  border-width: thick;
+  border-color: grey;
 }
